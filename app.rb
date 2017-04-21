@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/frank-says' do
-  'Put this in your pipe & smoke it!'
+  'NHA hello world'
 end
