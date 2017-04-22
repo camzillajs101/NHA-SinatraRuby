@@ -1,4 +1,4 @@
 require 'sinatra'
-get '/frank-says' do
+get '/' do
   'NHA hello world'
 end
